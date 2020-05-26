@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flobamora</string>
+    <string name="destination">목적지</string>
+    <string name="list">명부</string>
+    <string name="list_exp">목적지 목록</string>
+    <string name="NEW">새로운</string>
+    <string name="MOST">가장 많이 방문한</string>
+    <string name="switch_mode">야간 모드 / 주간 모드</string>
+    <string name="setting">환경</string>
+</resources>

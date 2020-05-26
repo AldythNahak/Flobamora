@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flobamora</string>
+    <string name="destination">Destinasi</string>
+    <string name="list">Daftar</string>
+    <string name="list_exp">Daftar tujuan Anda</string>
+    <string name="NEW">Baru</string>
+    <string name="MOST">Sering dikunjungi</string>
+    <string name="switch_mode">Mode Gelap/Mode Terang</string>
+    <string name="setting">Setelan</string>
+</resources>

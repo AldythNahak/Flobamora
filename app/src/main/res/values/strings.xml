@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flobamora</string>
+    <string name="destination">Destination</string>
+    <string name="list">List</string>
+    <string name="list_exp">Your list of destination</string>
+    <string name="NEW">New</string>
+    <string name="MOST">Most Visited</string>
+    <string name="switch_mode">Dark Mode/Day Mode</string>
+    <string name="setting">Setting</string>
+</resources>
