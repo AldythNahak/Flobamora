@@ -18,7 +18,7 @@
 - **Language:** Java  
 - **Platform:** Android (Native)  
 - **IDE:** Android Studio  
-- **Database:** SQLite or local JSON (based on project structure)
+- **Database:** Firebase
 
 ---
 
